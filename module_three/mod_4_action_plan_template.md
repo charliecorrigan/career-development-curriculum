@@ -4,7 +4,7 @@
 ## Module 4 Goals
 *List your longterm goal(s) of what you want to accomplish by the end of module 4*
 
-By the end of Mod 4, I'd like to have started viable application processes to at least 4 companies (viable = progressing through interviews)
+By the end of Mod 4, I'd like to have *started* viable application processes to at least 4 companies (resume actively being considered for an open position)
 
 ### Strategy To Achieve Goals:
 In this section, break down your longterm goal into smaller goals that you want to work on each week and/or day
@@ -22,10 +22,10 @@ Continue asking friends, colleagues, and family for introductions and then follo
 #### Cold Outreach/Network:
 *Who will you reach out to? Have you considered talking with alumni about their own networking practices when they started their job search?
 
-I've started a list of promising-looking consultancies in the Denver area and plan on reaching out to them. I also plan on taking advantage of whatever advice and help Turing is willing to offer students.
+I've started a list of promising-looking consultancies in the Denver area and plan on reaching out to them. I also plan on taking advantage of whatever advice and help Turing is willing to offer students. While I do think cold outreach is important, I'm also trying to exhaust any warm outreach opportunities I might have through friends, family, and former colleagues.
 
 #### Personal Branding *(A personal branding section is optional)*:
-*How might personal branding pieces help you towards your goal?*
+*How might personal branding pieces help you towards your goal?* 
 
 ### Timeline:
 *What will you do when?*
